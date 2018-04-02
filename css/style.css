@@ -1,0 +1,120 @@
+body{
+  background-color: #808080;
+  height:1000px;
+
+}
+.header{
+text-align: center;
+font-size: 30px;
+color: #33cc33;
+width:80%;
+height:150px;
+display:none;
+border: 10px solid  #404040;
+margin:10px auto 10px auto;
+}
+h1{
+  padding:10px auto 10px auto;
+}
+.aboutTitle{
+font-size: 30px;
+color: #33cc33;
+margin-left: 27%;
+display:none;
+}
+.aboutSection{
+  visibility: hidden;
+  border: 10px solid  #404040;
+  width: 400px;
+  height:500px;
+  margin-left: 20%;
+  padding: 5px;
+  float:left;
+}
+p{
+  color:#fff;
+}
+.me{
+
+  width: 400px;
+  height:510px;
+  border: 10px solid  #404040;
+  float:right;
+  margin-right:20%;
+  visibility: hidden;
+}
+.aboutcontainer{
+  width:100%;
+}
+#meimg{
+  width:80%;
+  height:80%;
+  margin:20px 40px 10px 40px;
+
+}
+.btndiv{
+
+}
+.photobtn{
+
+  display:inline-block;
+  margin:10px auto 10px 150px;
+  color:#fff;
+  background-color: #404040;
+  width:100px;
+  border-radius: 25px;
+  border: 2px solid #00ff00;
+}
+.disbtn{
+  display:inline-block;
+  margin:10px auto 10px 5px;
+  color:#fff;
+  background-color: #404040;
+  width:100px;
+  border-radius: 25px;
+  border: 2px solid #00ff00;
+}
+.footer{
+  width:100%;
+  height:70px;
+  background-color: #404040;
+  position:fixed;
+  left:0;
+  bottom:0;
+  margin-top: 100px;
+}
+.github{
+  width:100px;
+  height:50px;
+  background-color: #fff;
+
+}
+.linkedin{
+  width:100px;
+  height:50px;
+  margin-left:30px;
+  background-color: #fff;
+}
+.gmail{
+  width:100px;
+  height:50px;
+  margin-left:30px;
+  background-color: #fff;
+}
+#gitimg{
+  width:80px;
+  height:40px;
+
+}
+#linkimg{
+  width:80px;
+  height:40px;
+}
+#gmailimg{
+  width:80px;
+  height:40px;
+}
+.linkdiv{
+  margin-left: 38.5%;
+  margin-top: 10px;
+}
